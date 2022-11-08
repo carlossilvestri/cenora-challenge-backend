@@ -1,8 +1,7 @@
 # Scrapping cruises web page using Puppeteer, Cheerio, Swagger, Nestjs and Docker compose.
 
 ## Introctions to run the project (Production):
-### You need docker and docker compose installed on your computer.
-### Node 18 is recommended in your computer.
+### Node 18 was used, for this project. So, it's recommended to use it in your computer.
 
 ## Introctions to run the project (Development):
 
